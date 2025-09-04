@@ -14,8 +14,8 @@ It’s a complete ML lifecycle designed to stop phishing/malicious websites in p
 
 ## What is the Report discussing?
 The report investigates the use of machine learning for malicious URL detection. The aim is to develop a pipeline that can identify phishing, malware, and defacement websites by analyzing URL structures and patterns, ultimately improving cybersecurity defenses.
--------------------
 
+-------------------------------
 ## Detailed Summary of Pipeline
 1. Background & Dataset
 - Dataset of URLs classified into benign, phishing, malware, and defacement.
